@@ -1,0 +1,12 @@
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+1 / 1
+Total time         : 0 : 0 : 10
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+strongregular_28 : 100%
+time         : 0 : 0 : 10
+non isomorph : 100%
+isomorph     : 0%
+

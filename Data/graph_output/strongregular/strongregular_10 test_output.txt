@@ -1,0 +1,10 @@
+1 / 1
+Total time         : 0 : 0 : 0
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+strongregular_10 : 100%
+time         : 0 : 0 : 0
+non isomorph : 100%
+isomorph     : 0%
+

@@ -1,0 +1,174 @@
+1 / 252
+Total time         : 0 : 0 : 0
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+2 / 252
+Total time         : 0 : 0 : 1
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+3 / 252
+Total time         : 0 : 0 : 2
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+4 / 252
+Total time         : 0 : 0 : 3
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+5 / 252
+Total time         : 0 : 0 : 10
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+6 / 252
+Total time         : 0 : 0 : 15
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+7 / 252
+Total time         : 0 : 0 : 20
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+8 / 252
+Total time         : 0 : 0 : 26
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+9 / 252
+Total time         : 0 : 0 : 49
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+10 / 252
+Total time         : 0 : 1 : 36
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+11 / 252
+Total time         : 0 : 2 : 4
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+12 / 252
+Total time         : 0 : 2 : 31
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 5 
+Ideal ranks size : 1// 5 
+13 / 252
+Total time         : 0 : 3 : 38
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+14 / 252
+Total time         : 0 : 4 : 33
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 5 
+Ideal ranks size : 1// 5 
+15 / 252
+Total time         : 0 : 5 : 52
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+16 / 252
+Total time         : 0 : 6 : 37
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+17 / 252
+Total time         : 0 : 8 : 37
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+18 / 252
+Total time         : 0 : 10 : 32
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 1 
+Ideal ranks size : 1// 1 
+19 / 252
+Total time         : 0 : 11 : 22
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 81 
+Ideal ranks size : 1// 81 
+20 / 252
+Total time         : 0 : 20 : 42
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 41 
+Ideal ranks size : 1// 41 
+21 / 252
+Total time         : 0 : 26 : 10
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 9 
+Ideal ranks size : 1// 9 
+22 / 252
+Total time         : 0 : 28 : 32
+Total non isomorph : 100%
+Total isomorph     : 0%
+
+Ideal ranks size : 1// 381 
+Ideal ranks size : 1// 381 
+23 / 252
+Total time         : 1 : 29 : 50
+Total non isomorph : 95.65217495%
+Total isomorph     : 4.347826168%
+
+Ideal ranks size : 1// 381 
+Ideal ranks size : 1// 381 
+24 / 252
+Total time         : 2 : 21 : 41
+Total non isomorph : 91.66666865%
+Total isomorph     : 8.333333582%
+
+Ideal ranks size : 1// 445 
+Ideal ranks size : 1// 445 
+25 / 252
+Total time         : 3 : 41 : 57
+Total non isomorph : 87.99999952%
+Total isomorph     : 11.99999973%
+
+Ideal ranks size : 1// 445 
+Ideal ranks size : 1// 445 
+26 / 252
+Total time         : 4 : 24 : 47
+Total non isomorph : 84.61538553%
+Total isomorph     : 15.38461596%
+
