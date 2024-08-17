@@ -1,0 +1,16 @@
+Nodes: 77
+Edges: 352
+Density: 0.12030075187969924
+Maximum degree: 25
+Minimum degree: 1
+Average degree: 9.142857142857142
+Assortativity: 0.9870506270493182
+Number of triangles: 2300
+Average number of triangles: 19.602272727272727
+Maximum number of triangles: 276
+Average clustering coefficient: 0.32363636363636367
+Fraction of closed triangles: 0.989247311827957
+Maximum k-core: 24
+Lower bound of Maximum Clique: 25
+Communities: 3
+Diameter: 53

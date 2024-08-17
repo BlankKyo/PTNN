@@ -1,0 +1,16 @@
+Nodes: 2
+Edges: 1
+Density: 1.0
+Maximum degree: 1
+Minimum degree: 1
+Average degree: 1.0
+Assortativity: nan
+Number of triangles: 0
+Average number of triangles: 0.0
+Maximum number of triangles: 0
+Average clustering coefficient: 0.0
+Fraction of closed triangles: 0
+Maximum k-core: 1
+Lower bound of Maximum Clique: 2
+Communities: 1
+Diameter: 1
