@@ -89,8 +89,6 @@ public:
     // rank and position of node nodes based on their weights:
     vector<long long> rank;
     vector<long long> pos;
-    vector<long long> automorph_rank;
-
 
     // stores the beginning and the end of each same rank:
     vector<pair<long long, long long>> tmp1;
@@ -99,6 +97,7 @@ public:
     // values needed to determine the bound of the code:
     long long nb_ranks{};
     long long distinct_ranks{};
+    vector<long long> automorph_rank;
 
 //////////////////////  function   //////////////////////
 
